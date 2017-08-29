@@ -11,6 +11,7 @@ namespace class1
         public void git()
         {
             Console.WriteLine("git");
+            Console.WriteLine("hhehe");
         }
     }
 }
