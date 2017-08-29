@@ -12,6 +12,7 @@ namespace class1
         {
             Console.WriteLine("git");
             Console.WriteLine("branch");
+            Console.WriteLine("master");
         }
     }
 }
