@@ -8,5 +8,9 @@ namespace class1
 {
     public class Class1
     {
+        public void git()
+        {
+            Console.WriteLine("git");
+        }
     }
 }
